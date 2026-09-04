@@ -1,6 +1,6 @@
-# Universal Extractive RAG System with Stateful Header Tracking
+# Extractive RAG System with Stateful Header Tracking
 
-A zero-hallucination **Universal Extractive RAG (Retrieval-Augmented Generation)** system optimized for dense, highly-structured documents (laws, corporate compliance handbooks, technical manuals). The system completely eliminates hallucinations by forcing the Large Language Model (LLM) to perform strict verbatim extraction directly from the source document, integrated with an automated stateful tracking mechanism for exact Article/Section headers and physical PDF page numbers.
+A zero-hallucination **Extractive RAG (Retrieval-Augmented Generation)** system optimized for dense, highly-structured documents (laws, corporate compliance handbooks, technical manuals). The system completely eliminates hallucinations by forcing the Large Language Model (LLM) to perform strict verbatim extraction directly from the source document, integrated with an automated stateful tracking mechanism for exact Article/Section headers and physical PDF page numbers.
 
 ---
 
